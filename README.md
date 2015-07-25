@@ -5,4 +5,4 @@ Repo for Summer Institute Group One
 
 >git clone https://github.com/cbradyatnu/groupone.git
 
-...when you are in a directory where you want your files to be located.
+...when you are in the directory where you want your files to be located.
